@@ -8,7 +8,7 @@ COPY . .
 
 RUN pip3 install -r requirements.txt
 
-ENV GOOGLE_API_KEY="AIzaSyCF0omVrEQ8T4CLuuMXaDIUAtWJnk_6RIg"
+ENV GOOGLE_API_KEY=""
 
 EXPOSE 8501
 
