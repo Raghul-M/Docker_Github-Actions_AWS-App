@@ -5,7 +5,7 @@ This project demonstrates a CI/CD pipeline using GitHub Actions to build a Docke
 
 ## Workflow
 
-![1_-PcL2tHMJfEStwajNbJbUg](https://github.com/Raghul-M/Docker_Github-Actions_AWS-App/assets/71755586/bb646409-a676-4394-9a0a-bd18be4a0534)
+![Streamlit -app](https://github.com/user-attachments/assets/39ad53f3-2c5c-489d-8ada-dd2af9a75d60)
 
 
 1. **Code Commit**: Developers push code changes to the `main` branch.
